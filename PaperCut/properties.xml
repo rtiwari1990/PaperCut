@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PrintRates>
+	<PrintRate ID="A4">
+		<SingleBW>0.15</SingleBW>
+		<SingleColour>0.25</SingleColour>
+		<DoubleBW>0.10</DoubleBW>
+		<DoubleColour>0.20</DoubleColour>
+	</PrintRate>
+</PrintRates>
